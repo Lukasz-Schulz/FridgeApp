@@ -78,14 +78,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FridgeWPF.exe" size="220080">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FridgeWPF.exe" size="220592">
       <assemblyIdentity name="FridgeWPF" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>C0/bIiFeR/D2ch2H8OmSFRPyAGPyrKRPUeYp77GVueA=</dsig:DigestValue>
+        <dsig:DigestValue>JYAw/ukxL/MK821e55UWGOzweQ+U7zQ2zeFokRtajz4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
